@@ -1,1 +1,3 @@
 ### CuText API
+
+### Supported Currency
